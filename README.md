@@ -1,2 +1,2 @@
 # valtracker
-yup
+valorant tracker personal project in development
